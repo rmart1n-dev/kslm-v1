@@ -9,3 +9,4 @@ The KSLM (Knowledgeless Small Language Model) is an experiment in training a lan
 
 From an initial training run using the CNN/DailyMail dataset (preproccessed through an NER) a 150m parameter model exhibited rather low intelligence, often repeating tokens. By adding a penalty for repetition it was able to exhibit relatively coherent English, although overfitted to both the NER-processed tokens as well as the news-report style of the dataset. For a 3 hour experiment it isn't the worst.
 
+<img width="2832" height="1660" alt="training_report" src="https://github.com/user-attachments/assets/f07255dd-53af-46e0-8dd8-3bf355276d63" />
