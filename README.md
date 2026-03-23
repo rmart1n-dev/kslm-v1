@@ -6,7 +6,7 @@ Initial code for version 1 of my KSLM (Knowledgeless Small Language Model).
 The KSLM (Knowledgeless Small Language Model) is an experiment in training a language model that is fully able to understand language, yet retains no knowledge pertaining to the real world. For example, it could understand this paragraph, yet if you were to ask it a knowledge-based question (i.e. "What is the capital of France?") it would be unable to respond.
 
 ## Why?
-I recently saw the paper [https://openreview.net/pdf/1c4a46ec0583c91ff13b82a1a0a9ed916e9c2a95.pdf](Knowledgeless Language Models: Decoupling Linguistic Competence and Factual Knowledge) after thinking to myself "What if an AI could understand language but not know facts?" Due to the fact that there is no model available currently that does this using the method described in the paper, I decided to take things into my own hands to challenge myself and see if I could actually make a working knowledgeless language model.
+I recently saw the paper [Knowledgeless Language Models: Decoupling Linguistic Competence and Factual Knowledge](https://openreview.net/pdf/1c4a46ec0583c91ff13b82a1a0a9ed916e9c2a95.pdf) after thinking to myself "What if an AI could understand language but not know facts?" Due to the fact that there is no model available currently that does this using the method described in the paper, I decided to take things into my own hands to challenge myself and see if I could actually make a working knowledgeless language model.
 
 ## Results?
 
